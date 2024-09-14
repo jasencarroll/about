@@ -573,6 +573,14 @@ input, select, textarea {
 			opacity: 0.75;
 		}
 
+		.about_text {
+			background-color: rgb(53, 139, 176);
+			max-width: fit-content;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 10px;
+		}
+
 		#header nav {
 			margin: 1.5em 0 0 0;
 		}
